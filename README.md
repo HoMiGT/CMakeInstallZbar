@@ -1,5 +1,4 @@
 ZBAR BAR CODE READER
-====================
 
 ZBar Bar Code Reader is an open source software suite for reading bar
 codes from various sources, such as video streams, image files and raw
@@ -15,9 +14,8 @@ Check the ZBar home page for the latest release, mailing lists, etc.
 
 License information can be found in 'COPYING'.
 
-
+---
 BUILDING
-========
 
 See 'INSTALL' for generic configuration and build instructions.
 
@@ -73,18 +71,16 @@ The Perl bindings must be built separately after installing the
 library.  see
     perl/README
 
-
+--- 
 RUNNING
-=======
 
 'make install' will install the library and application programs.  Run
 'zbarcam' to start the video scanner.  use 'zbarimg barcode.jpg' to
 decode a saved image file.  Check the manual to find specific options
 for each program.
 
-
+--- 
 REPORTING BUGS
-==============
 
 Bugs can be reported on the sourceforge project page
     http://www.sourceforge.net/projects/zbar/
@@ -93,3 +89,5 @@ Please include the ZBar version number and a detailed description of
 the problem.  You'll probably have better luck if you're also familiar
 with the concepts from:
     http://www.catb.org/~esr/faqs/smart-questions.html
+
+---
