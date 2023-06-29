@@ -1,0 +1,13 @@
+/home/c/projects/zbar/build/CMakeFiles/zbar_wasm.dir
+/home/c/projects/zbar/build/CMakeFiles/edit_cache.dir
+/home/c/projects/zbar/build/CMakeFiles/rebuild_cache.dir
+/home/c/projects/zbar/build/zbar/CMakeFiles/edit_cache.dir
+/home/c/projects/zbar/build/zbar/CMakeFiles/rebuild_cache.dir
+/home/c/projects/zbar/build/zbar/decoder/CMakeFiles/edit_cache.dir
+/home/c/projects/zbar/build/zbar/decoder/CMakeFiles/rebuild_cache.dir
+/home/c/projects/zbar/build/zbar/processor/CMakeFiles/edit_cache.dir
+/home/c/projects/zbar/build/zbar/processor/CMakeFiles/rebuild_cache.dir
+/home/c/projects/zbar/build/zbar/qrcode/CMakeFiles/edit_cache.dir
+/home/c/projects/zbar/build/zbar/qrcode/CMakeFiles/rebuild_cache.dir
+/home/c/projects/zbar/build/zbar/video/CMakeFiles/edit_cache.dir
+/home/c/projects/zbar/build/zbar/video/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,33 @@
+CMakeFiles/zbar_wasm.dir/zbar/decoder.c.o: \
+  /home/c/projects/zbar/zbar/decoder.c \
+  /home/c/projects/zbar/./include/config.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/alloca.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/stdio.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/wasi/api.h \
+  /home/c/emsdk/upstream/lib/clang/17/include/stddef.h \
+  /home/c/emsdk/upstream/lib/clang/17/include/__stddef_max_align_t.h \
+  /home/c/emsdk/upstream/lib/clang/17/include/stdint.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/stdint.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/bits/stdint.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/compat/string.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/string.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/strings.h \
+  /home/c/projects/zbar/./include/zbar.h \
+  /home/c/projects/zbar/zbar/debug.h \
+  /home/c/projects/zbar/zbar/decoder.h \
+  /home/c/emsdk/upstream/lib/clang/17/include/limits.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/limits.h \
+  /home/c/emsdk/upstream/emscripten/cache/sysroot/include/bits/limits.h \
+  /home/c/projects/zbar/zbar/decoder/ean.h \
+  /home/c/projects/zbar/zbar/decoder/i25.h \
+  /home/c/projects/zbar/zbar/decoder/databar.h \
+  /home/c/projects/zbar/zbar/decoder/codabar.h \
+  /home/c/projects/zbar/zbar/decoder/code39.h \
+  /home/c/projects/zbar/zbar/decoder/code93.h \
+  /home/c/projects/zbar/zbar/decoder/code128.h \
+  /home/c/projects/zbar/zbar/decoder/qr_finder.h \
+  /home/c/projects/zbar/zbar/decoder/../qrcode.h
