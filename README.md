@@ -93,10 +93,10 @@ with the concepts from:
 ---
 
 emcc 编译 wasm 的静态库
->cd build
->rm -rf ./*
->emcmake cmake ..
->emmake make -j$(nproc)
+>cd build     
+>rm -rf ./*   
+>emcmake cmake ..   
+>emmake make -j$(nproc)   
 
 系统：ubuntu-22.04 TLS
 
